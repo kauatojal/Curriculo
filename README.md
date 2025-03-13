@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-Acesse aqui: kauatojal.github.io/Curriculo/
+Acesse aqui: [Curriculo](https://kauatojal.github.io/Curriculo/)
 Este projeto é um currículo interativo desenvolvido utilizando HTML, CSS e JavaScript. O objetivo é apresentar de forma dinâmica minhas habilidades, experiências profissionais e projetos desenvolvidos.
 
 ## Objetivos
